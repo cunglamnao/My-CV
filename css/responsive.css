@@ -1,0 +1,28 @@
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+    .T-third {
+        margin-bottom: 258px;
+    }
+}
+
+/* Mobile */
+@media (max-width: 739px) {
+    .T-third,
+    .T-two
+    {
+        width: 100%!important;
+    }
+
+    .T-margin-bottom-floating {
+        padding-bottom: 24px!important;
+
+    }
+
+    .T-two{
+        margin-left: 16px!important;
+    }
+
+    .T-content {
+        display: block!important;
+    }
+}

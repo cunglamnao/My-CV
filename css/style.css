@@ -1,0 +1,214 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    font-size: 15px;
+}
+
+.Main-grey {
+    background-color: #f1f1f1;
+}
+
+.T-content {
+    display: flex;
+    margin-top: 16px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.T-two
+{
+    width: 66.66666667%;
+    /* padding: 0 8px;
+     */
+     margin-left: 8px;
+     box-shadow: 0 0 20px #ccc;
+     margin-right: 16px;
+
+}
+
+.T-third {
+    width: 33.3333333%;
+    box-shadow: 0 0 3px #ccc;
+    margin-left: 16px;
+    margin-right: 8px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 20px #ccc;
+    background-color: #fff;
+
+}
+
+.T-margin-bottom-floating {
+    margin-bottom: 24px;
+}
+
+.container {
+    padding: 1px 16px;
+    background-color: #fff;
+}
+
+img {
+    vertical-align: middle;
+}
+
+
+h2 {
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.T-display-container {
+    position: relative;
+}
+
+.T-display-bottom {
+    position: absolute;
+    bottom: 0;
+    margin: 10px 0;
+    padding: 0 16px;
+}
+
+.T-text-main {
+    color: #009688!important;
+}
+
+p {
+    margin: 15px 0;
+}
+
+b {
+    font-size: 18px;
+}
+
+.T-margin-right {
+    margin-right: 16px!important;
+}
+
+.T-light-grey {
+    background-color: #f1f1f1!important;
+}
+
+.T-background-main {
+    color: #fff;
+    background-color: #009688!important;
+}
+
+.T-90 {
+    width: 90%;
+} 
+
+.T-80 {
+    width: 80%;
+}
+
+.T-75 {
+    width: 75%;
+}
+
+.T-50 {
+    width: 50%;
+}
+
+.T-small {
+    font-size: 12px!important;
+}
+
+.T-round {
+    border-radius: 16px;
+}
+
+.T-center {
+    text-align: center;
+}
+
+.T-height-width {
+    height: 24px;
+}
+
+.T-100 {
+    width: 100%;
+}
+
+.T-55 {
+    width: 55%;
+}
+
+.T-25 {
+    width: 25%;
+}
+
+.T-text-grey {
+    color: #757575;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #eee;
+    margin: 20px 0;
+    
+}
+
+.T-font-icon {
+    font-size: 18px!important;
+}
+
+.T-margin-bottom {
+    margin-bottom: 16px;
+}
+
+.T-shadow-in-right {
+    box-shadow: 0 0 20px #ccc;
+}
+
+.T-padding-bottom-60 {
+    /* padding-bottom: 60px; */
+}
+
+.T-padding-margin {
+    padding: 16px 0;
+    margin: 10px 0;
+}
+
+.T-font-36 {
+    font-size: 36px;
+}
+
+h5,h6 {
+    margin: 10px 0;
+}
+
+h6 {
+    font-size: 16px;
+    color: #009688;
+    font-weight: 400;
+}
+
+.T-tag {
+    padding: 0 8px;
+    background-color: #009688;
+    color: #fff;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+
+.T-margin-16 {
+    margin-top: 16px;
+}
+
+.T-txt-white {
+    color: #fff;
+}
+
+.hover-icon:hover {
+    opacity: 0.6;
+}
